@@ -13,7 +13,7 @@ const models = {
   // 'MTQ43CH/A': '黑色钛金属',
 
   // // iPhone 15 Pro 256GB
-  // 'MTQA3CH/A': '原色钛金属',
+  'MTQA3CH/A': '原色钛金属',
   // 'MTQC3CH/A': '蓝色钛金属',
   // 'MTQ93CH/A': '白色钛金属',
   // 'MTQ83CH/A': '黑色钛金属',
@@ -40,7 +40,7 @@ const models = {
 
   // // iPhone 15 Pro Max 512GB
   // 'MU2V3CH/A': '原色钛金属',
-  'MU2W3CH/A': '蓝色钛金属',
+//   'MU2W3CH/A': '蓝色钛金属',
   // 'MU2U3CH/A': '白色钛金属',
   // 'MU2T3CH/A': '黑色钛金属',
   // // iPhone 15 Pro Max 1TB
@@ -52,7 +52,7 @@ const models = {
 
 const searchNearby = true;
 // 默认查询 浦东店
-const storeNum = 'R389';
+const storeNum = 'R320';
 
 
 const monitorIphoneStorage = async (productName) => {
